@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ahmvddddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmvddddd" height="30" width="40" /></a>
+<a href="https://twitter.com/ahmvddddd" target="blank"><img align="center" src="https://banner2.cleanpng.com/20240119/sut/transparent-x-logo-logo-brand-identity-company-organization-black-background-white-x-logo-for-1710916376217.webp" alt="ahmvddddd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmvddddd&show_icons=true&locale=en" alt="ahmvddddd" /></p>
 
-## <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmvddddd&" alt="ahmvddddd" /></p>
+
