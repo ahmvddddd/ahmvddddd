@@ -1,10 +1,11 @@
 ## Hi 👋, I'm Ahmad Bello
-### A passionate mobile developer from Nigeria
+### A passionate flutter mobile developer from Nigeria
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmvddddd&label=Profile%20views&color=0e75b6&style=flat" alt="ahmvddddd" /> </p>
 
-- 🌱 I’m currently learning **Node.js**
+
 - 🤝 I’m looking for help with **Flutter projects**
+- 🌱 I’m currently learning **Node.js**
 - 💬 Ask me about **Flutter, Firebase, and Node.js**
 - 📫 How to reach me: **belloahmadmm@gmail.com**
 
