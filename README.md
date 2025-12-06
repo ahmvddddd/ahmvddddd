@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Ahmad Bello
-### A passionate flutter mobile developer from Nigeria
+### A passionate flutter mobile developer from Nigeria.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmvddddd&label=Profile%20views&color=0e75b6&style=flat" alt="ahmvddddd" /> </p>
 
