@@ -1,5 +1,6 @@
-## Hi 👋, I'm Ahmad Bello
-### A passionate flutter mobile developer from Nigeria.
+## Hi, I'm Ahmad Bello
+### Enthusiastic Mobile Developer with a strong foundation in Flutter, Dart, and Node.js, experienced in building and 
+documenting end-to-end mobile applications. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmvddddd&label=Profile%20views&color=0e75b6&style=flat" alt="ahmvddddd" /> </p>
 
