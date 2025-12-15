@@ -1,5 +1,5 @@
 ## Hi, I'm Ahmad Bello
-### An enthusiastic Mobile Developer with a strong foundation in Flutter, Dart, and Node.js, experienced in building and documenting end-to-end mobile applications. 
+### An enthusiastic Mobile Developer with a strong foundation in Flutter, Dart, and Node.js, experienced in building and documenting end-to-end mobile and web applications. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmvddddd&label=Profile%20views&color=0e75b6&style=flat" alt="ahmvddddd" /> </p>
 
