@@ -5,7 +5,7 @@
 
 
 -  I’m available for  **Flutter jobs**
--  Ask me about **Flutter, Firebase, Node.js, PostgreSQL**
+-  Ask me about **Flutter, Firebase, Node.js, Mongodb,  PostgreSQL**
 -  How to reach me: **belloahmadmm@gmail.com**
 
 ## 🚀 Languages and Tools:
