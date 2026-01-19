@@ -1,6 +1,6 @@
 ## Hi, I'm Ahmad Bello
 ### I’m an enthusiastic software developer focused on building reliable, scalable digital products across mobile and web platforms. I enjoy working across the product stack, from crafting intuitive user interfaces to integrating backend services that support real-world use cases.
-I have strong experience developing and documenting end-to-end, cross-platform applications using Flutter and Dart, alongside backend integration with Node.js and RESTful APIs. My work often involves translating product requirements into clean, maintainable systems that prioritize performance, usability, and long-term scalability.
+### I have strong experience developing and documenting end-to-end, cross-platform applications using Flutter and Dart, alongside backend integration with Node.js and RESTful APIs. My work often involves translating product requirements into clean, maintainable systems that prioritize performance, usability, and long-term scalability.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmvddddd&label=Profile%20views&color=0e75b6&style=flat" alt="ahmvddddd" /> </p>
 
