@@ -34,8 +34,8 @@
  ## 🔥🔥Here are a few visual demos of my work in action:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmvddddd/vider_provider/main/assets/screenshots/dashboard_gif.gif" width="200" height="480" alt="Vider Provider Dashboard" />
-  <img src="https://raw.githubusercontent.com/ahmvddddd/vider/main/assets/screenshots/home_gif.gif" width="200" height="480" alt="Vider Home Screen" />
+  <!-- <img src="https://raw.githubusercontent.com/ahmvddddd/vider_provider/main/assets/screenshots/dashboard_gif.gif" width="200" height="480" alt="Vider Provider Dashboard" />
+  <img src="https://raw.githubusercontent.com/ahmvddddd/vider/main/assets/screenshots/home_gif.gif" width="200" height="480" alt="Vider Home Screen" /> -->
   <img src="https://raw.githubusercontent.com/ahmvddddd/vider/main/assets/screenshots/message.gif" width="200" height="480" alt="Vider Message Screen" />
   <img src="https://raw.githubusercontent.com/ahmvddddd/shopa/main/assets/product_images/sq1.png" width="200" height="480" alt="Squareparts Demo 3 " />
 </p>
